@@ -1,0 +1,25 @@
+# 内容：game
+# 数量：23条
+DOMAIN,steambroadcast.akamaized.net,DIRECT
+DOMAIN,steamcommunity-a.akamaihd.net,DIRECT
+DOMAIN,steampipe.akamaized.net,DIRECT
+DOMAIN,steamstore-a.akamaihd.net,DIRECT
+DOMAIN,steamusercontent-a.akamaihd.net,DIRECT
+DOMAIN,steamuserimages-a.akamaihd.net,DIRECT
+DOMAIN-SUFFIX,fanatical.com,DIRECT
+DOMAIN-SUFFIX,humblebundle.com,DIRECT
+DOMAIN-SUFFIX,playartifact.com,DIRECT
+DOMAIN-SUFFIX,steam-chat.com,DIRECT
+DOMAIN-SUFFIX,steamcommunity.com,DIRECT
+DOMAIN-SUFFIX,steamgames.com,DIRECT
+DOMAIN-SUFFIX,steampowered.com,DIRECT
+DOMAIN-SUFFIX,steamserver.net,DIRECT
+DOMAIN-SUFFIX,steamstat.us,DIRECT
+DOMAIN-SUFFIX,steamstatic.com,DIRECT
+DOMAIN-SUFFIX,underlords.com,DIRECT
+DOMAIN-SUFFIX,valvesoftware.com,DIRECT
+DOMAIN-SUFFIX,epicgames.com,DIRECT
+DOMAIN-SUFFIX,epicgames.dev,DIRECT
+DOMAIN-SUFFIX,helpshift.com,DIRECT
+DOMAIN-SUFFIX,paragon.com,DIRECT
+DOMAIN-SUFFIX,unrealengine.com,DIRECT

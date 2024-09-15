@@ -1,0 +1,26 @@
+# 内容：OpenAi Bard anthropic
+# 域名关键字匹配
+DOMAIN-KEYWORD,openai,DIRECT
+DOMAIN-KEYWORD,anthropic,DIRECT
+DOMAIN-KEYWORD,Claude,DIRECT
+# 域名后缀匹配
+DOMAIN-SUFFIX,perplexity.ai,DIRECT
+DOMAIN-SUFFIX,chatgpt.com,DIRECT
+DOMAIN-SUFFIX,auth0.com,DIRECT
+DOMAIN-SUFFIX,client-api.arkoselabs.com,DIRECT
+DOMAIN-SUFFIX,events.statsigapi.net,DIRECT
+DOMAIN-SUFFIX,featuregates.org,DIRECT
+DOMAIN-SUFFIX,identrust.com,DIRECT
+DOMAIN-SUFFIX,intercom.io,DIRECT
+DOMAIN-SUFFIX,intercomcdn.com,DIRECT
+DOMAIN-SUFFIX,oaistatic.com,DIRECT
+DOMAIN-SUFFIX,oaiusercontent.com,DIRECT
+DOMAIN-SUFFIX,openai.com,DIRECT
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net,DIRECT
+DOMAIN-SUFFIX,sentry.io,DIRECT
+DOMAIN-SUFFIX,stripe.com,DIRECT
+DOMAIN-SUFFIX,bard.google.com,DIRECT
+DOMAIN-SUFFIX,gemini.google.com,DIRECT
+DOMAIN-SUFFIX,makersuite.google.com,DIRECT
+DOMAIN-SUFFIX,anthropic.com,DIRECT
+DOMAIN-SUFFIX,claude.ai.com,DIRECT
